@@ -1,11 +1,7 @@
-# axforge.net
+# d3n.net
 
-The home page of [axforge.net](https://axforge.net): the AXFORGE wordmark, and links to
-Walid Karray's [blog](https://blog.axforge.net) and [CV](https://cv.axforge.net). Plain
-HTML in `site/`, served as-is by Cloudflare Pages, published by
-`.github/workflows/deploy.yml` on every push to `main`.
-
-`site/mail/axforge-wordmark.png` is the logo the homelab's alert mails show: its URL,
-`https://axforge.net/mail/axforge-wordmark.png`, must keep working.
+The home page of [d3n.net](https://d3n.net): one line and a link to
+[walid.tn](https://walid.tn). Plain HTML in `site/`, served as-is by Cloudflare Pages
+(project `d3n-net`), published by `.github/workflows/deploy.yml` on every push to `main`.
 
 The content is © Walid Karray, all rights reserved.
